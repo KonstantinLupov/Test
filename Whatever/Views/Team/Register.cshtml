@@ -1,0 +1,71 @@
+﻿@model Team
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Register</title>
+    
+
+</head>
+<body>
+<form method="post">
+    <h3 style="margin-left:167px">Име на отбора</h3>
+    <input asp-for="TeamName" style="margin-left:143px"/>*<span asp-validation-for="TeamName" class="text-danger"></span>
+    <br/>
+    <div>
+        <h3 style="margin-left:173px">Участник 1</h3>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Име:</label>
+            <input asp-for="FirstPlayerName"class="form-control" style="margin-bottom: 5px"/>*<span asp-validation-for="FirstPlayerName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Училище:</label>
+            <input asp-for="FirstPlayerSchool"class="form-control" style="margin-bottom: 5px"/>*<span asp-validation-for="FirstPlayerSchool"class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Клас:</label>
+            <input asp-for="FirstPlayerClass"class="form-control" style="margin-bottom: 5px"/>*<span asp-validation-for="FirstPlayerClass"class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">E-mail:</label>
+            <input asp-for="FirstPlayerEmail"class="form-control" style="margin-bottom: 5px" />*<span asp-validation-for="FirstPlayerEmail"class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Телефонен номер:</label>
+            <input asp-for="FirstPlayerPhoneNumber"class="form-control" style="margin-bottom: 5px" /><span asp-validation-for="FirstPlayerPhoneNumber"class="text-danger"></span>
+        </div>
+    </div>
+    <div>
+        <h3 style="margin-left:173px">Участник 2</h3>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Име:</label>
+            <input asp-for="SecondPlayerName"style="margin-bottom: 5px"/>*<span asp-validation-for="SecondPlayerName"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Училище:</label>
+            <input asp-for="SecondPlayerSchool" style="margin-bottom: 5px" />*<span asp-validation-for="SecondPlayerSchool"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Клас:</label>
+            <input asp-for="SecondPlayerClass" style="margin-bottom: 5px" />*<span asp-validation-for="SecondPlayerClass"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">E-mail:</label>
+            <input asp-for="SecondPlayerEmail" style="margin-bottom: 5px" />*<span asp-validation-for="SecondPlayerEmail"></span>
+        </div>
+        <div class="form-group">
+            <label style="display: inline-block; width: 140px;text-align: right">Телефонен номер:</label>
+            <input asp-for="SecondPlayerPhoneNumber" style="margin-bottom: 5px" /><span asp-validation-for="SecondPlayerPhoneNumber"></span>
+        </div>
+    </div>
+    <input style="margin-left: 175px; margin-top: 5px" type="submit" value="Запиши отбор "/>
+</form>
+<div style="margin-top: 20px">
+    Полетата със * са задължителни.
+</div>
+</body>
+</html>

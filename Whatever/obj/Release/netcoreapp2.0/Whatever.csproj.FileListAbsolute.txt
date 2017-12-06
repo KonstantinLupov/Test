@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\bin\Release\netcoreapp2.0\Whatever.deps.json
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\bin\Release\netcoreapp2.0\Whatever.runtimeconfig.json
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\bin\Release\netcoreapp2.0\Whatever.runtimeconfig.dev.json
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\bin\Release\netcoreapp2.0\Whatever.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\bin\Release\netcoreapp2.0\Whatever.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\obj\Release\netcoreapp2.0\Whatever.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\obj\Release\netcoreapp2.0\Whatever.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\obj\Release\netcoreapp2.0\Whatever.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\obj\Release\netcoreapp2.0\Whatever.AssemblyInfo.cs
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\obj\Release\netcoreapp2.0\Whatever.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\obj\Release\netcoreapp2.0\Whatever.pdb

@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Whatever
+--content-root=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Home\About.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Home\Contact.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Home\Index.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Shared\Error.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Shared\_Layout.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Team\Register.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Team\Successful.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\Team\Unsuccessful.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\_ViewImports.cshtml
+--file=C:\Users\USER\Documents\Visual Studio 2017\Projects\Whatever\Whatever\Views\_ViewStart.cshtml

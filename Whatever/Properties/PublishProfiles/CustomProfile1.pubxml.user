@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVkxOUzOGYEq87ccpJvHPqQAAAAACAAAAAAAQZgAAAAEAACAAAAB2ILaS5VlAr8kj3WVFzTZH7lqMfh60hUSAFkci3+5e6wAAAAAOgAAAAAIAACAAAAB0uQJjwjSDqYp8sBD6mg7lBD6ZwdvzeRgclvdM7HyM/yAAAABerNyWRWF4f0rBtSchdwYpVtpTi/uSQWtMJJzQwS+4OUAAAAAETEM0W/GkTBdQuuY2ziFPRYhfbVfOU5Kuwk/QbHn8nzWU9YfDYfvfO45v3h2VzKceSL4AjQ+SgxAQ2/ig5GiK</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp-eu.myasp.net/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=(localdb)\mssqllocaldb;Database=BelotTestWhatever;Trusted_Connection=True;MultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
